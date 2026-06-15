@@ -1,0 +1,26 @@
+¿Por qué es importante que las comunidades puedan registrar y consultar 
+reportes o incidencias en una plataforma tecnológica?
+
+                    Respueste               
+
+Es importante que las comunidades puedan registrar y consultar reportes o incidencias
+ mediante una plataforma tecnológica porque esto fortalece la comunicación comunitaria
+y promueve una participación más activa de los ciudadanos en la identificación
+y solución de los problemas de su entorno. A través de herramientas desarrolladas
+con programación comunitaria, los habitantes pueden compartir información de manera o
+rganizada, reportar situaciones que afectan a la comunidad y realizar seguimiento a
+las acciones tomadas para resolverlas. Este tipo de plataformas facilitan la circulación 
+de información confiable y actualizada, permitiendo que tanto los ciudadanos como las
+organizaciones comunitarias tengan acceso a datos relevantes para la toma de decisiones. 
+Además, contribuyen a la transparencia, ya que los reportes quedan registrados y pueden 
+ser consultados por cualquier miembro de la comunidad, evitando la pérdida de información 
+y fomentando la rendición de cuentas. La programación comunitaria permite adaptar estas 
+soluciones tecnológicas a las necesidades reales de las personas, generando espacios 
+digitales donde se promueve la colaboración, el trabajo colectivo y la construcción de 
+propuestas para mejorar la calidad de vida. Asimismo, el análisis de los reportes 
+recopilados ayuda a identificar problemáticas recurrentes, establecer prioridades y 
+planificar acciones más efectivas. De esta manera, la tecnología se convierte en una 
+herramienta de participación ciudadana que fortalece los procesos de organización social, 
+mejora la comunicación entre los diferentes actores de la comunidad y facilita la gestión de i
+nformación para impulsar el desarrollo local de forma más eficiente, inclusiva y 
+participativa.
