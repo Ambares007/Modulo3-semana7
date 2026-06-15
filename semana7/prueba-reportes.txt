@@ -1,0 +1,4 @@
+Cuando ingresé el código "touch prueba-reporte.txt" 
+Se iluminó una M en color naranja dentro del archivo y a la vez la información del mismo 
+archivo que se está ingresando, aparecieron un punto verde en la semana 7. 
+Supongo que es por el cambio que no se ha guardado ni pusheado en el github.
